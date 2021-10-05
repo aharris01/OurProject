@@ -1,3 +1,3 @@
 # OurProject
 # Partner 1: Dominique Deveaux 
-# Aiden Harris
+# Partner 2: Aiden Harrisson
